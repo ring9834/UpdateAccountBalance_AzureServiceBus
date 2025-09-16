@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AccountService/AccountService.csproj" Id="afef9049-c468-4e11-8a13-ba457f1811ea" />
+  <Project Path="BalanceWebApi/BalanceWebApi.csproj" Id="bb662709-2b86-4aab-b497-744c898bfa2f" />
+  <Project Path="DataModels/DataModels.csproj" />
+  <Project Path="ServiceBusConsumer/ServiceBusConsumer.csproj" Id="56e6b4df-02e4-410e-a305-f1712f3b2645" />
+  <Project Path="ServiceBusService/ServiceBusService.csproj" Id="0ab8601f-76da-4bc2-9743-5df2e145a5f5" />
+</Solution>
